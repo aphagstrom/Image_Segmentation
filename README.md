@@ -1,1 +1,1 @@
-The files in this codebase give three methods for segmenting images with networks of ODEs, based on techniques developed by Wang, Terman, and Slotine.
+The files in this codebase give three methods for segmenting images with networks of ODEs, based on techniques developed by Wang, Terman, and Slotine. The Slotine code is based on code developed by William Hahn. 
